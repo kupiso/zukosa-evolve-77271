@@ -73,7 +73,7 @@ The application will be available at `http://localhost:5173` (or another port if
 
 ## Deployment
 
-[Add deployment instructions specific to your hosting platform]
+https://zuko-sa-profile.onrender.com
 
 ## Contributing
 
