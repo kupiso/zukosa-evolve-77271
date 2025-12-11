@@ -30,7 +30,7 @@ Install Node.js using [nvm](https://github.com/nvm-sh/nvm#installing-and-updatin
 
 1. Clone the repository:
 ```sh
-git clone <YOUR_GIT_URL>
+git clone <https://github.com/kupiso/zukosa-evolve-77271.git
 ```
 
 2. Navigate to the project directory:
